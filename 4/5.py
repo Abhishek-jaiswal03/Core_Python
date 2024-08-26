@@ -1,0 +1,1 @@
+del keyword is used to delete the reference variable from the number space stack.
